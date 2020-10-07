@@ -3,7 +3,7 @@
 
 Crie um app:
 <ul>
-  <li>Deve ter um SegmentControll com duas opções: Pessoa e Programador.</li>
+  <li>Deve ter um SegmentControll com duas opções: <b>Pessoa e Programador.</b></li>
   <li>Deve ter uma UITableView que carrega uma lista de Pessoa ou Programador, de acordo com o valor selecionado no segmentcontrol.</li>
   <li>Quando tocar numa pessoa, deve abrir uma tela <b>modal.</b></li>
   <li>Quando tocar num programador, deve abrir uma tela via <b>navigation.</b></li>
